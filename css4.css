@@ -1,0 +1,52 @@
+
+
+.container{
+width: 920px;
+height: 198px;
+padding:1px;
+border: 1px solid black;
+margin-left:100px;
+}
+.box1
+{
+    width:920px;
+    height:180px;
+    
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-image: url(Assignment-3.PNG);
+    
+
+}
+.container2
+{
+    width: 920px;
+height: 198px;
+padding:1px;
+border: 2px solid black;
+margin-left:100px;
+}
+.box2{
+width: 920px;
+height: 180px;
+background-size: cover;
+background-repeat: no-repeat;
+background-image: url(Assignment-3.PNG);
+background-position: bottom;
+}
+.box3
+{
+    width:500px;
+    height:300px;
+   
+    margin-left:220px;
+    background-image:url(Assignment-3.PNG);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.text{
+    text-align:;
+    position:relative;
+    left:120px;
+    top:20px;
+}
